@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ## My Book: Hands on Go Programming
 
-<img src=./imgs/book.jpeg>
+<img src=./imgs/book.jpeg width=40%>
 
 <!-- ![](./imgs/book.jpeg) -->
