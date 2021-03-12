@@ -24,7 +24,7 @@ Simple and easy to understand guide to learn Golang. This book will teach you Go
 </div>
 
 
-**You can find this book here:**
+### You can find this book here:
 
 - **Kindle Edition**
   - [In India](https://amzn.to/3uXFoME)
