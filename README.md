@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Simple and easy to understand guide to learn Golang. This book will teach you Golang in simplest way with hands on examples. It is useful for beginners and experts.
 
 <div style="width: 50%; float: left">
-<img src=/home/gslab/go/src/github.ibm.com/MCMP-Discovery/aws/book.jpeg width=250>
+<img src=./imgs/book.jpeg width=250>
 </div>
 
 
