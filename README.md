@@ -17,6 +17,23 @@ Here are some ideas to get you started:
 
 ## My Book: Hands on Go Programming
 
+Simple and easy to understand Golang. This book will teach you Golang in simplest way with hands on examples. It is useful for beginners and experts.
+
 <img src=./imgs/book.jpeg width=40%>
+
+**You can find this here:**
+
+Kindle Edition-
+https://amzn.to/3uXFoME (India)
+https://amzn.to/2OyCuNp (Outside India)
+
+Paperback-
+https://amzn.to/3sWROTb (India)
+https://amzn.to/3ribxMw (Outside India)
+
+Free Preview:
+eBook- http://bit.ly/3rl7VcC
+Print- https://bit.ly/3rli0Gq
+
 
 <!-- ![](./imgs/book.jpeg) -->
