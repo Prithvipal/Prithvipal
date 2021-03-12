@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 Simple and easy to understand guide to learn Golang. This book will teach you Golang in simplest way with hands on examples. It is useful for beginners and experts.
 
-<div style="width: 50%; float: left">
-<img align="left" src=./imgs/book.jpeg width=300>
-</div>
+<img align="left" src=./imgs/book.jpeg width=40%>
 
 
 ### You can find this book here:
