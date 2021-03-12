@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ## My Book: Hands on Go Programming
 
-![](imgs/book.jpeg)
+<img src=./imgs/book.jpeg>
+
+<!-- ![](./imgs/book.jpeg) -->
