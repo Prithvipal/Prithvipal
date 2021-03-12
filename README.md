@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 Simple and easy to understand guide to learn Golang. This book will teach you Golang in simplest way with hands on examples. It is useful for beginners and experts.
 
-<div style="width: 50%; float: left">
-  <img src=./imgs/book.jpeg width=250>
-</div>
+
+<img src=./imgs/book.jpeg width=40%>
+
 
 **You can find this book here:**
 
@@ -36,5 +36,6 @@ Simple and easy to understand guide to learn Golang. This book will teach you Go
 - **Free Preview:**
   - [eBook](http://bit.ly/3rl7VcC)
   - [Print](https://bit.ly/3rli0Gq)
+
 
 <!-- ![](./imgs/book.jpeg) -->
