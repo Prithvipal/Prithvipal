@@ -24,16 +24,15 @@ Simple and easy to understand Golang. This book will teach you Golang in simples
 **You can find this book here:**
 
 - **Kindle Edition**
-  - https://amzn.to/3uXFoME (India)
-  - https://amzn.to/2OyCuNp (Outside India)
+  - [In India](https://amzn.to/3uXFoME)
+  - [Outside India](https://amzn.to/2OyCuNp)
 
 - **Paperback**
-  - https://amzn.to/3sWROTb (India)
-  - https://amzn.to/3ribxMw (Outside India)
+  - [In India](https://amzn.to/3sWROTb)
+  - [Outside India](https://amzn.to/3ribxMw)
 
 - **Free Preview:**
-  - eBook- http://bit.ly/3rl7VcC
-  - Print- https://bit.ly/3rli0Gq
-
+  - [eBook](http://bit.ly/3rl7VcC)
+  - [Print](https://bit.ly/3rli0Gq)
 
 <!-- ![](./imgs/book.jpeg) -->
